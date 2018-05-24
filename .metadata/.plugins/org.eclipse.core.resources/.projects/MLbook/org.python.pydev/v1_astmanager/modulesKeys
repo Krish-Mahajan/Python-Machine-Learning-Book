@@ -1,9 +1,0 @@
-MODULES_MANAGER_V2
-algorithm.__init__|/home/krish.mahajan/Documents/PythonMachineLearning/MLbook/algorithm/__init__.py
-algorithm.adaline_bgd|/home/krish.mahajan/Documents/PythonMachineLearning/MLbook/algorithm/adaline_bgd.py
-algorithm.adaline_sgd|/home/krish.mahajan/Documents/PythonMachineLearning/MLbook/algorithm/adaline_sgd.py
-algorithm.logistic_regression|/home/krish.mahajan/Documents/PythonMachineLearning/MLbook/algorithm/logistic_regression.py
-algorithm.majority_vote_classifier|/home/krish.mahajan/Documents/PythonMachineLearning/MLbook/algorithm/majority_vote_classifier.py
-algorithm.perceptron|/home/krish.mahajan/Documents/PythonMachineLearning/MLbook/algorithm/perceptron.py
-algorithm.sbs|/home/krish.mahajan/Documents/PythonMachineLearning/MLbook/algorithm/sbs.py
-notebooks.__init__|/home/krish.mahajan/Documents/PythonMachineLearning/MLbook/notebooks/__init__.py
