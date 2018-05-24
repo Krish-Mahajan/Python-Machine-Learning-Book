@@ -8,7 +8,7 @@ from itertools import  combinations
 import numpy as np 
 from sklearn.metrics import accuracy_score 
 from sklearn.cross_validation import train_test_split 
-from sklearn.decomposition.tests.test_nmf import random_state
+
 
 class SBS(): 
     def __init__(self,estimator,k_features,scoring=accuracy_score,test_size=0.25,random_state=1): 
